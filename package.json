@@ -1,0 +1,17 @@
+{
+  "name": "simple-todos",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "big-integer": "^1.6.17",
+    "classnames": "^2.2.3",
+    "hex-to-dec": "^1.0.0",
+    "meteor-node-stubs": "~0.2.0",
+    "node-bignumber": "^1.2.1",
+    "react": "^15.1.0",
+    "react-addons-pure-render-mixin": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
